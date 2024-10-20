@@ -1,0 +1,24 @@
+
+.listItems{
+    display: flex;
+    
+     padding-left: 15px;
+     padding: 10px 0px;
+     list-style: none;  
+      
+     background-color: rgb(0, 0, 0);
+    
+}
+
+.Home{
+    
+    padding-left:  900px;
+    padding-right: 45px
+
+}
+.About{
+    padding:0px 45px ;
+}
+.NavBar{
+    padding-left: 15px;
+}
